@@ -1,4 +1,4 @@
-Hi ![]<img width="24" height="24" alt="WaveHelloGIFbyAdbros" src="https://github.com/user-attachments/assets/7c9e7c1e-6861-4321-858e-ee57b8b64f9a" /> My name is Abheek
+Hi ![]<img width="200" height="200" alt="WaveHelloGIFbyAdbros" src="https://github.com/user-attachments/assets/7c9e7c1e-6861-4321-858e-ee57b8b64f9a" /> My name is Abheek
 ===============================================================================================================================
 
 Web Developer and Security Enthusiast
